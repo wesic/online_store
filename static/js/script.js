@@ -58,3 +58,8 @@ $(document).ready(function() {
 }); 
 // jquery end
 
+// From Session 66 go and check it
+setTimeout(function(){
+    $('#message').fadeOut('slow')
+}, 4000)
+
